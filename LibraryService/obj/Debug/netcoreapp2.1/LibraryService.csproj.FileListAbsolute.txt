@@ -1,0 +1,14 @@
+C:\Users\Sel\source\repos\LibraryService\LibraryService\bin\Debug\netcoreapp2.1\LibraryService.deps.json
+C:\Users\Sel\source\repos\LibraryService\LibraryService\bin\Debug\netcoreapp2.1\LibraryService.runtimeconfig.json
+C:\Users\Sel\source\repos\LibraryService\LibraryService\bin\Debug\netcoreapp2.1\LibraryService.runtimeconfig.dev.json
+C:\Users\Sel\source\repos\LibraryService\LibraryService\bin\Debug\netcoreapp2.1\LibraryService.dll
+C:\Users\Sel\source\repos\LibraryService\LibraryService\bin\Debug\netcoreapp2.1\LibraryService.pdb
+C:\Users\Sel\source\repos\LibraryService\LibraryService\obj\Debug\netcoreapp2.1\LibraryService.csprojAssemblyReference.cache
+C:\Users\Sel\source\repos\LibraryService\LibraryService\obj\Debug\netcoreapp2.1\LibraryService.csproj.CoreCompileInputs.cache
+C:\Users\Sel\source\repos\LibraryService\LibraryService\obj\Debug\netcoreapp2.1\LibraryService.RazorAssemblyInfo.cache
+C:\Users\Sel\source\repos\LibraryService\LibraryService\obj\Debug\netcoreapp2.1\LibraryService.RazorAssemblyInfo.cs
+C:\Users\Sel\source\repos\LibraryService\LibraryService\obj\Debug\netcoreapp2.1\LibraryService.AssemblyInfoInputs.cache
+C:\Users\Sel\source\repos\LibraryService\LibraryService\obj\Debug\netcoreapp2.1\LibraryService.AssemblyInfo.cs
+C:\Users\Sel\source\repos\LibraryService\LibraryService\obj\Debug\netcoreapp2.1\LibraryService.RazorTargetAssemblyInfo.cache
+C:\Users\Sel\source\repos\LibraryService\LibraryService\obj\Debug\netcoreapp2.1\LibraryService.dll
+C:\Users\Sel\source\repos\LibraryService\LibraryService\obj\Debug\netcoreapp2.1\LibraryService.pdb

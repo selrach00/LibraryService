@@ -1,0 +1,30 @@
+.form-holder {
+    position: relative;
+    display: block;
+    background: #fff;
+    font-size: 0px;
+    overflow: hidden;
+    height: 0px;
+}
+
+    .form-holder form {
+        position: relative;
+        display: block;
+    }
+
+.input-wrapper {
+    position: relative;
+    display: inline-block;
+    width: 50%;
+    background: #222;
+    color: #fff;
+    padding: 4px 0px;
+}
+
+    .input-wrapper span {
+        position: relative;
+        margin: 0px 2px;
+        font-size: 12px;
+        min-width: 40px;
+        display: inline-block;
+    }
